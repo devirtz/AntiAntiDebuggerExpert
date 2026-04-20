@@ -1,0 +1,8 @@
+{
+  "name": "antidebugger",
+  "version": "1.0.0",
+  "builtin-baseline": "256acc64012b23a13041d8705805e1f23b43a024",
+  "dependencies": [
+    "unicorn"
+  ]
+}

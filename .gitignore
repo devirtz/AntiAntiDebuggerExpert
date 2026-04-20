@@ -1,0 +1,9 @@
+build/
+deps/
+vcpkg_installed/
+.vs/
+*.user
+*.suo
+*.VC.db
+*.VC.opendb
+.vscode/
